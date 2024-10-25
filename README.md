@@ -63,5 +63,5 @@ Les ateliers sont des espaces dédiés à la création et à l'idéation, spéci
 | Salle de réunion (8 personnes)| 20               | Matériel audiovisuel, système de réservation            |
 | Salle de réunion (4 personnes)| 15               | Matériel audiovisuel, système de réservation            |
 | Ateliers / Workshop           | 40               | Matériel informatique, espaces de travail collaboratif  |
-
+|                               | 275              |                                                         |
 ---
