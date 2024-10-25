@@ -6,7 +6,7 @@
 - PME et startups technologiques : Entreprises en démarrage ou à la recherche de solutions innovantes.
 - Grands groupes : Qui ont des besoins en prototypage, formation et développement.
 - Agences de design et de développement : Cherchant à externaliser certaines tâches ou à bénéficier d'un espace collaboratif.
-- Organisations de formation : Qui pourraient bénéficier d'une infrastructure moderne pour dispenser leurs cours.
+- Organisations de formation et formateurs : Qui pourraient bénéficier d'une infrastructure moderne pour dispenser leurs cours.
 
 ### Élaboration d'une proposition de valeur claire
 
