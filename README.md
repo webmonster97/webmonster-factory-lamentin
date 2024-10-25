@@ -2,11 +2,15 @@
 
 ### Accueil
 
-Le pôle d'accueil est le premier point de contact pour les utilisateurs de Webmonster Factory. Il est conçu pour être sécurisé, nécessitant une invitation préalable pour accéder aux installations. Les visiteurs doivent créer un profil social et enregistrer leur présence via l’application dédiée de la Factory. Cette application permet non seulement de renseigner le profil de l'utilisateur, mais aussi de recevoir des informations en temps réel sur les actions de la Factory, les disponibilités des salles de réunion, les événements à venir, et les promotions. Les utilisateurs peuvent également réserver des bureaux ou des salles de réunion, louer du matériel, ou s’inscrire à des formations. Ce système numérique assure une gestion fluide et efficace des ressources.
+Le pôle d'accueil est le premier point de contact pour les utilisateurs de Webmonster Factory. 
+
+Il est conçu pour être sécurisé, nécessitant une invitation préalable pour accéder aux installations. 
+
+Les visiteurs doivent créer un profil social et enregistrer leur présence via l’application dédiée de la Factory. Cette application permet non seulement de renseigner le profil de l'utilisateur, mais aussi de recevoir des informations en temps réel sur les actions de la Factory, les événements à venir, et les promotions. Les utilisateurs peuvent également vérifier les disponibilités et réserver des bureaux ou des salles de réunion, louer du matériel, ou s’inscrire à des formations. Ce système numérique assure une gestion fluide et efficace des ressources.
 
 ### Administration
 
-L'administration constitue le cœur névralgique de Webmonster Factory, où se déroulent toutes les actions administratives essentielles. Ce pôle comprend plusieurs bureaux équipés de matériel informatique moderne, de systèmes de télécommunication et de logiciels de gestion. Les bureaux sont organisés pour favoriser la collaboration entre les équipes administratives et les utilisateurs, tout en garantissant un environnement de travail productif. Chaque bureau est doté de :
+L'administration constitue le cœur névralgique de Webmonster Factory, où se déroulent toutes les actions administratives essentielles. Ce pôle comprend plusieurs bureaux équipés de matériel informatique, de systèmes de télécommunication et de logiciels de gestion. Les bureaux sont organisés pour favoriser la collaboration entre les équipes administratives et les utilisateurs, tout en garantissant un environnement de travail productif. Chaque bureau est doté de :
 
 - **Matériel** : ordinateurs, imprimantes, scanners, mobilier ergonomique
 - **Fonctions** : gestion des réservations, suivi des événements, support aux utilisateurs
@@ -19,7 +23,7 @@ Le pôle sanitaire est un espace fonctionnel et accessible au public, garantissa
 
 Les bureaux à louer sont des espaces conçus pour les travailleurs indépendants, les freelances, les consultants, ou les chefs d'entreprise ayant besoin d'un bureau temporaire. Chaque bureau est équipé de :
 
-- **Équipements** : mobilier de bureau, connexion Internet haut débit, prises électriques suffisantes
+- **Matériel** : mobilier de bureau, connexion Internet haut débit, prises électriques suffisantes
 - **Système de réservation** : via l'application, les utilisateurs peuvent facilement vérifier la disponibilité, réserver des bureaux pour des périodes spécifiques et gérer leurs locations.
 
 ### Bar / Coffee working connecté
@@ -34,7 +38,7 @@ L'Espace jeu vidéo sert de point de convergence intergénérationnelle, où les
 
 La Salle de formation est un espace dédié à l'apprentissage, pouvant accueillir jusqu'à 10 élèves. Elle est entièrement équipée pour permettre une meilleure présentation des formations. Cela inclut :
 
-- **Équipements** : projecteurs, tableaux interactifs, matériel audiovisuel
+- **Matériel** : projecteurs, tableaux interactifs, matériel audiovisuel
 - **Superficie** : environ 30 m², permettant une configuration flexible pour divers types de formations
 
 ### Salles de réunion
@@ -63,5 +67,5 @@ Les ateliers sont des espaces dédiés à la création et à l'idéation, spéci
 | Salle de réunion (8 personnes)| 20               | Matériel audiovisuel, système de réservation            |
 | Salle de réunion (4 personnes)| 15               | Matériel audiovisuel, système de réservation            |
 | Ateliers / Workshop           | 40               | Matériel informatique, espaces de travail collaboratif  |
-|                               | 275              |                                                         |
+| **TOTAL**                     | 275              |                                                         |
 ---
