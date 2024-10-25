@@ -78,9 +78,10 @@ Le Bar / Coffee working est un espace convivial où les utilisateurs peuvent se 
 
 ### Espace jeu vidéo
 
-Un espace dédié au divertissement et à la culture pop :
+Un espace dédié au divertissement et à la Pop culture :
 
 - Consoles et jeux : Une sélection de consoles modernes et de jeux adaptés à tous les âges, favorisant les interactions intergénérationnelles.
+- Lieu d'accueil où les relations parents enfants peuvent être renforcées autour du jeu
 - Événements thématiques : Organisation de tournois ou de soirées jeux vidéo.
 
 ### Ateliers / Workshops
