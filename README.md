@@ -30,7 +30,7 @@ La proposition de valeur est orientée vers les besoins spécifiques des entrepr
 
 ### Partenariats stratégiques
 
-- Collaborations avec des acteurs de l’écosystème : Travailler avec des incubateurs, des chambres de commerce, et d’autres organisations pour toucher un public plus large.
+- Collaborations avec des acteurs de l’écosystème : Travailler avec des incubateurs, la chambre de commerce, et d’autres organisations pour toucher un public plus large.
 - Offres groupées : Créer des partenariats pour proposer des services combinés, par exemple avec des entreprises de recrutement ou des sociétés de conseil.
 
 ### Marketing numérique ciblé
