@@ -52,6 +52,8 @@ Webmonster Factory s'engage à soutenir la communauté locale :
 - Événements et formations : Organisation de séminaires, d'ateliers et d'événements de réseautage pour les professionnels et les jeunes entrepreneurs.
 - Partenariats locaux : Collaboration avec des acteurs locaux pour des initiatives communautaires.
 
+---
+
 ## Présentation des salles
 
 ### Accueil
