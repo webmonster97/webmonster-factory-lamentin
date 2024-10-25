@@ -1,6 +1,6 @@
 # Présentation de Webmonster Factory
 
-## Offre de services de Webmonster Factory
+## Offre de services
 
 ### Espace de travail partagé
 
