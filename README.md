@@ -82,6 +82,7 @@ Un espace dédié au divertissement et à la Pop culture :
 
 - Consoles et jeux : Une sélection de consoles modernes et de jeux adaptés à tous les âges, favorisant les interactions intergénérationnelles.
 - Lieu d'accueil où les relations parents enfants peuvent être renforcées autour du jeu
+- Lieu d'expérimentation pour l'ouverture à de nouvelles vocations professionnelles
 - Événements thématiques : Organisation de tournois ou de soirées jeux vidéo.
 
 ### Ateliers / Workshops
