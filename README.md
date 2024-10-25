@@ -1,4 +1,58 @@
-## Présentation de Webmonster Factory
+# Présentation de Webmonster Factory
+
+## Offre de services de Webmonster Factory
+
+### Espace de travail partagé
+
+Webmonster Factory propose un espace de travail partagé adapté aux travailleurs indépendants, freelances et petites entreprises. Cela inclut :
+
+- Bureaux à louer : Espaces privés ou semi-privés équipés de mobilier ergonomique, de connexion Internet haut débit et de services de réservation via l'application.
+- Postes de travail flexibles : Accès à des bureaux partagés, permettant de choisir un espace selon les besoins du moment.
+
+### Salles de réunion et de formation
+
+Les salles de réunion et de formation sont conçues pour accueillir des groupes de différentes tailles :
+
+- Salles de réunion : Disponibles pour 4 à 8 personnes, équipées de matériel audiovisuel, de tableaux blancs et d’un système de réservation en ligne.
+- Salle de formation : Capacité de 10 personnes, entièrement équipée (projecteurs, tableaux interactifs) pour des sessions de formation efficaces.
+
+### Espace de détente : Bar / Coffee working
+
+Le Bar / Coffee working est un espace convivial où les utilisateurs peuvent se retrouver, travailler ou se détendre :
+
+- Ambiance cosy : Canapés, fauteuils, manges debouts, et espaces ouverts et fermés pour favoriser les échanges.
+- Options de restauration : Boissons chaudes et froides, collations, et éventuellement des options de restauration légère.
+- Événements sociaux : Organisation d’événements, de conférences ou de rencontres communautaires.
+
+### Espace jeu vidéo
+
+Un espace dédié au divertissement et à la culture pop :
+
+- Consoles et jeux : Une sélection de consoles modernes et de jeux adaptés à tous les âges, favorisant les interactions intergénérationnelles.
+- Événements thématiques : Organisation de tournois ou de soirées jeux vidéo.
+
+### Ateliers / Workshops
+
+Des espaces conçus pour l'innovation et l'apprentissage :
+
+- Ateliers de prototypage : Équipements pour la création de prototypes informatiques, y compris des outils de conception et de développement.
+- Sessions de co-création : Possibilité d’organiser des workshops pour des entreprises souhaitant innover ou former leurs équipes.
+
+### Services numériques
+
+Webmonster Factory offre une application dédiée pour simplifier l'accès et l'utilisation des services :
+
+- Réservations en temps réel : Gestion des réservations de bureaux, salles de réunion, et d'événements.
+- Notifications : Mise à jour des utilisateurs sur les événements, les promotions et les disponibilités.
+
+### Support à la communauté
+
+Webmonster Factory s'engage à soutenir la communauté locale :
+
+- Événements et formations : Organisation de séminaires, d'ateliers et d'événements de réseautage pour les professionnels et les jeunes entrepreneurs.
+- Partenariats locaux : Collaboration avec des acteurs locaux pour des initiatives communautaires.
+
+## Présentation des salles
 
 ### Accueil
 
