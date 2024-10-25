@@ -32,7 +32,9 @@ Le Bar / Coffee working est un espace convivial propice à la détente et à la 
 
 ### Espace jeu vidéo
 
-L'Espace jeu vidéo sert de point de convergence intergénérationnelle, où les enfants peuvent jouer pendant que leurs parents travaillent ou participent à des activités. Cet espace met en avant la culture pop et permet aux utilisateurs de se détendre. Les consoles et les jeux disponibles (comme Mario Kart) encouragent des interactions ludiques, renforçant ainsi le lien social au sein de la communauté.
+L'espace jeu vidéo ne se limite pas à être un lieu de divertissement ; il favorise également des interactions sociales entre les générations. Les parents peuvent surveiller leurs enfants tout en ayant la possibilité de travailler ou de se détendre, créant ainsi une atmosphère familiale. Ce pôle renforce le lien social et la cohésion de la communauté en offrant un lieu où les gens peuvent se rassembler, jouer et partager des expériences communes.
+
+- **Matériel** : Nintendo Switch, PlayStation 5
 
 ### Salle de formation
 
