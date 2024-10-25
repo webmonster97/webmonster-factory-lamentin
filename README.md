@@ -10,7 +10,7 @@
 
 ### Élaboration d'une proposition de valeur claire
 
-La proposition de valeur doit être orientée vers les besoins spécifiques des entreprises :
+La proposition de valeur est orientée vers les besoins spécifiques des entreprises :
 
 - Accès à un réseau d'experts : En mettant en avant la communauté de 800 ingénieurs, développeurs, designers et chefs d'entreprise, souligne la richesse des compétences disponibles.
 - Espaces adaptés pour l'innovation : Présenter des bureaux et des ateliers équipés pour le prototypage et le travail collaboratif.
