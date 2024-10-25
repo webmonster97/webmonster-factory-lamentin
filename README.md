@@ -30,6 +30,12 @@ Les bureaux à louer sont des espaces conçus pour les travailleurs indépendant
 
 Le Bar / Coffee working est un espace convivial propice à la détente et à la sociabilité. Équipé d'écrans affichant des informations pertinentes sur le lieu (événements, promotions, informations pour les adhérents), cet espace favorise les échanges entre utilisateurs. Il constitue également un lieu de rencontre pour ceux qui souhaitent travailler dans une ambiance moins formelle.
 
+- Des zones de détente avec canapés et fauteuils
+- Des espaces ouverts pour la circulation
+- Des manges debouts pour favoriser des échanges informels
+- Des tables pour travailler confortablement
+- Des zones plus privées pour les discussions en petit groupe
+
 ### Espace jeu vidéo
 
 L'espace jeu vidéo ne se limite pas à être un lieu de divertissement ; il favorise également des interactions sociales entre les générations. Les parents peuvent surveiller leurs enfants tout en ayant la possibilité de travailler ou de se détendre, créant ainsi une atmosphère familiale. Ce pôle renforce le lien social et la cohésion de la communauté en offrant un lieu où les gens peuvent se rassembler, jouer et partager des expériences communes.
@@ -63,11 +69,11 @@ Les ateliers sont des espaces dédiés à la création et à l'idéation, spéci
 | Sanitaire                     | 20               | Toilettes, points d’eau, normes d’accessibilité       |
 | Bureau 1                      | 15               | Bureau, connexion Internet, mobilier ergonomique        |
 | Bureau 2                      | 15               | Bureau, connexion Internet, mobilier ergonomique        |
-| Bar / Coffee working          | 30               | Espaces de détente, écrans d’affichage                 |
+| Bar / Coffee working          | 40               | Espaces de détente, écrans d’affichage                 |
 | Espace jeu vidéo             | 25               | Consoles de jeux, mobilier confortable                  |
 | Salle de formation            | 30               | Projecteurs, tableaux interactifs                       |
 | Salle de réunion (8 personnes)| 20               | Matériel audiovisuel, système de réservation            |
 | Salle de réunion (4 personnes)| 15               | Matériel audiovisuel, système de réservation            |
 | Ateliers / Workshop           | 40               | Matériel informatique, espaces de travail collaboratif  |
-| **TOTAL**                     | 275              |                                                         |
+| **TOTAL**                     | 285              |                                                         |
 ---
